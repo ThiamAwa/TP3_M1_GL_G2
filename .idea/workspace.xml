@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fa52a1a-b74a-4215-b4c4-5ff35f17bed4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../GLI_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/src/main/java/sn/dev/gli_app/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLI_app/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/.idea/sonarlint/securityhotspotstore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Controller/DemandeLocationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Controller/ImmeubleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Controller/InscriptionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Controller/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Controller/UniteLocationServelet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Controller/logoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Entity/ContratLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Entity/Demandelocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Entity/Immeuble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Entity/Locataire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Entity/Paiement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Entity/UniteLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/Entity/Utilisateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/config/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/config/PrivateFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/config/PropertiesReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/dao/IDemande.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/dao/IDemandeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/dao/IImeubleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/dao/IUniteLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/dao/IUniteLocationImpDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/dao/IUtilisateurImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/dao/ImmeubleImplDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/dao/UItilisateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/model/ImmeubleModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/model/UniteLocationModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/java/sn/dev/gestion_immobilier_location/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/lib/taglibs-standard-impl-1.2.5-migrated-0.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/lib/taglibs-standard-spec-1.2.5-migrated-0.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/Admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/Immeuble.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/addAppartemet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/addDemande.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/addUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/detailApp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/detailImmeuble.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/listDemandeLocation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/listImmeuble.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/listUnite.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/listeUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/uniteLocation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/WEB-INF/pages/utilisateur.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/public/admin/assets/demo/chart-area-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/public/admin/assets/demo/chart-bar-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/public/admin/assets/demo/chart-pie-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/public/admin/assets/demo/datatables-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/public/admin/assets/img/error-404-monochrome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/public/admin/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/public/admin/js/datatables-simple-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/public/admin/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gestion_Immobilier_location/src/main/webapp/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamadanApp/src/main/java/sn/dev/ramadanapp/controller/RegionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamadanApp/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamadanApp2024/src/main/java/sn/dev/ramadanapp2024/controller/OperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamadanApp2024/src/main/java/sn/dev/ramadanapp2024/controller/TypeOperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamadanApp2024/src/main/java/sn/dev/ramadanapp2024/entities/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamadanApp2024/src/main/java/sn/dev/ramadanapp2024/entities/TypeOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamadanApp2024/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RamadanApp2024/src/main/resources/pages/operation.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ramadan_app2024/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ramadan_app2024/src/main/java/sn/dev/ramadan_app2024/controller/OperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ramadan_app2024/src/main/java/sn/dev/ramadan_app2024/controller/TypeOperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ramadan_app2024/src/main/java/sn/dev/ramadan_app2024/entities/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ramadan_app2024/src/main/java/sn/dev/ramadan_app2024/entities/TypeOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ramadan_app2024/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserApp/src/main/java/entites/UsersEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserApp/src/main/java/sn/dev/userapp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserApp/src/main/java/sn/dev/userapp/contoller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserApp/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserApp/src/main/resources/pages/user.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/TrayNotification.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/controller/adminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/controller/loginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/controller/userConnectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/controller/userController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/entity/Getters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/entity/Utilisateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/entity/parrainage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/repository/role/IRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/repository/role/RoleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/repository/utilisateur/IUtilisateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/repository/utilisateur/UtilisateurImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/tools/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/java/sn/dev/vote_app/tools/Outils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/resources/image/e5ba79334133d2cb362dd639f755a392.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/resources/pages/admin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/resources/pages/creerUser.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/resources/pages/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/resources/pages/stylesheets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/resources/pages/user.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vote_app/src/main/resources/pages/userConnect.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_group_app/src/main/java/sn/dev/chat_group_app/controller/menbre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_group_app/src/main/java/sn/dev/chat_group_app/entites/DiscussionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_group_app/src/main/java/sn/dev/chat_group_app/entites/MembreEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_group_app/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_group_app/src/main/resources/sn/dev/chat_group_app/usermembre.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_group_javafx_app/src/main/java/sn/dev/chat_group_javafx_app/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/java/sn/dev/code_first_examen/controller/MedecinController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/java/sn/dev/code_first_examen/controller/PatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/java/sn/dev/code_first_examen/controller/SpecialiteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/java/sn/dev/code_first_examen/controller/homeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/java/sn/dev/code_first_examen/entities/Medecin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/java/sn/dev/code_first_examen/entities/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/java/sn/dev/code_first_examen/entities/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/resources/pages/Medecin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/resources/pages/Patient.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/resources/pages/Specialite.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_examen/src/main/resources/pages/stylesheets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_first_hebernates/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/sn/dev/demo3/controller/userController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/sn/dev/demo3/entites/Mdecin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/sn/dev/demo3/entites/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/sn/dev/demo3/entites/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/sn/dev/demo3/entites/Specialite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/resources/sn/dev/demo3/user.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gIL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hebernatesApp/src/main/java/sn/dev/entities/CategorieEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hebernatesApp/src/main/java/sn/dev/entities/ProduitEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hebernatesApp/src/main/java/sn/dev/persistence/CustomPersistenceUnitInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hebernatesApp/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee-app-2024/mysql-connector-java-5.1.26-bin .jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee-app-2024/src/main/java/sn/dev/jeeapp2024/dao/IProduitDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee-app-2024/src/main/java/sn/dev/jeeapp2024/dao/ProduitImplDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee-app-2024/src/main/java/sn/dev/jeeapp2024/dao/SingletonConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee-app-2024/src/main/java/sn/dev/jeeapp2024/dao/TestDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee-app-2024/src/main/java/sn/dev/jeeapp2024/entity/Produit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee-app-2024/src/main/java/sn/dev/jeeapp2024/web/ProduitModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee-app-2024/src/main/java/sn/dev/jeeapp2024/web/ProduitServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee-app-2024/src/main/webapp/produits.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kor/src/main/java/sn/dev/kor/entities/departement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kor/src/main/java/sn/dev/kor/entities/region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kor/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prepaExam/src/main/java/entites/UsersEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prepaExam/src/main/java/sn/dev/prepaexam/controller/userController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prepaExam/src/main/resources/sn/dev/prepaexam/pages/META-INF/persistance.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prepaExam/src/main/resources/sn/dev/prepaexam/pages/user.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../preparationExam/src/main/java/sn/dev/preparationexam/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../preparationExam/src/main/resources/sn/dev/preparationexam/user.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_app/socket_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_app/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_app/src/Serve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_app_refaire/socket_app_refaire.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_app_refaire/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socket_app_refaire/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socketyoussouf/socketyoussouf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socketyoussouf/src/Myserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socketyoussouf/src/socket_app/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socketyoussouf/src/socket_app/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/issuestore/1/f/1fdab77b24a6c5d07f9cec9984396df92bffe052" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/issuestore/2/6/26e020f093f59cd2d82011e1e4140e9cd748a360" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/issuestore/7/4/74a2c5e7fb4e26645c82f365f474220ccb82d1a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/issuestore/7/e/7e787d7420485a3055278fe95e3cbdc5b9695e58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/issuestore/9/8/989a866bd5c4a661868767acec55541fc8a929bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/issuestore/e/0/e079237f936a9e68644b0847c8a6f613b186c30a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/securityhotspotstore/1/f/1fdab77b24a6c5d07f9cec9984396df92bffe052" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/securityhotspotstore/2/6/26e020f093f59cd2d82011e1e4140e9cd748a360" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/securityhotspotstore/7/4/74a2c5e7fb4e26645c82f365f474220ccb82d1a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/securityhotspotstore/7/e/7e787d7420485a3055278fe95e3cbdc5b9695e58" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/securityhotspotstore/9/8/989a866bd5c4a661868767acec55541fc8a929bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/securityhotspotstore/e/0/e079237f936a9e68644b0847c8a6f613b186c30a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/src/main/java/sn/dev/sonnouna/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/src/main/java/sn/dev/sonnouna/entites/departement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/src/main/java/sn/dev/sonnouna/entites/region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sonnouna/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testt/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testt/src/main/java/sn/dev/testt/controller/userController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testt/src/main/java/sn/dev/testt/entites/users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testt/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testt/src/main/resources/sn/dev/testt/user.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2plJWIoIhhnrz6GnF7p1uUEIG8N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "AtomSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fa52a1a-b74a-4215-b4c4-5ff35f17bed4" name="Changes" comment="" />
+      <created>1733334763526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733334763526</updated>
+      <workItem from="1733334765358" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
